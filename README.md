@@ -6,9 +6,9 @@ Resumen. En este trabajo, centrado en el área del aprendizaje supervisado, pret
 
 ## Instalación
 
-a) Abrir Package Manager de Weka
-b) Pulsar el botón File/URL
-c) Escribir la dirección: https://github.com/gualbe/XNN/raw/master/XNN.zip
-d) Pulsar el botón OK
-e) Reiniciar Weka
-f) Usar el filtro "unsupervised/attribute/XNNFilter" y el clasificador "lazy/XNN".
+1. Abrir Package Manager de Weka
+2. Pulsar el botón File/URL
+3. Escribir la dirección: https://github.com/gualbe/XNN/raw/master/XNN.zip
+4. Pulsar el botón OK
+5. Reiniciar Weka
+6. Usar el filtro "unsupervised/attribute/XNNFilter" y el clasificador "lazy/XNN".
